@@ -8,6 +8,11 @@ const Footer = () => {
           <a href='https://twitter.com/0xbanana' target='_blank' rel="noreferrer">
             0xBanana
           </a>
+          <br/>
+          and{' '}
+          <a href='https://twitter.com/staccoverflow' target='_blank' rel="noreferrer">
+            Staccoverflow
+          </a>
         </div>
         <div className='flex flex-1 p-4 text-center'>
           <div className='px-2'>

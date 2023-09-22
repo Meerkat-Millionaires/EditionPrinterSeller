@@ -21,13 +21,13 @@ const About: NextPage = () => {
             This is an experiment in custom minting open editions. 
         </p> */}
         <p className='py-1'>
-            This is a living project that is <Link className='' href="https://github.com/echohtp/EditionPrinterSeller" target="_blank"><u>open source</u></Link>.
+            These open editions get 75% of royalties from @staccoverflows friendzy.gg, wuithout being staked..
         </p>
         <p className='py-1'>
             Code is my art. 
         </p>
         <p className='pt-5'>
-            If you&apos;d like to get your token or art listed, <Link href="https://twitter.com/0xbanana" target="_blank"><u>send me a DM</u></Link>.
+            Staked friendzy.gg FREN tokens get the other 25%...
         </p>
         </div>
     </main>
